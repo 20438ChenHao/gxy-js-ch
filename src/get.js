@@ -9,7 +9,7 @@ var token
 var userId
 var sign
 var jrtime
-var key = 'SCT183817TaSyXAD2OvKBLp1W4YIS3rcFn'
+var key = 'SCT188767TWAnd9NoL8GXrESvmF2K1w3WZ'
 
 
 // 网络请求
